@@ -1,0 +1,13 @@
+.atm-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  width: 97vw;
+}
+.atm-container .screen-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=index.css.map */
